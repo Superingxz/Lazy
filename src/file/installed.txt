@@ -1,0 +1,14 @@
+GsonFormat
+com.armandakopian.lifecyclesorter
+com.jaeger.findviewbyme
+eu.inmite.android.plugin.butterknifezelezny
+eu.inmite.android.plugin.selectorchapek
+mobi.hsz.idea.gitignore
+net.nicoulaj.idea.markdown
+BashSupport
+com.vladsch.idea.multimarkdown
+org.intellij.plugins.markdown
+com.github.pedrovgs.androidwifiadb
+me.drakeet.layoutformatter
+org.jetbrains.kotlin
+pl.charmas.parcelablegenerator
